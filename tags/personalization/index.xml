@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personalization on Aakarsh Yadav</title>
+    <link>https://aakarsh1011.github.io/aakarsh_portfolio/tags/personalization/</link>
+    <description>Recent content in Personalization on Aakarsh Yadav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://aakarsh1011.github.io/aakarsh_portfolio/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product recommendation system</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-1/</link>
+      <pubDate>Thu, 15 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-1/</guid>
+      <description>Using a russian online marketplace company Avito&amp;rsquo;s dataset containing features like:
+ UserID ProductID AdID UserDemoraphics AdPosition Click &amp;hellip;. and many more. The main aim was to produce personalized product recommendation based on the user interaction with products and similarity with other users. I have tried to prevent any monotonus recommendations by keep the accuracy low to include different products. LightFM model was used to include both user and Ad meta deta to determine the same.</description>
+    </item>
+    
+  </channel>
+</rss>

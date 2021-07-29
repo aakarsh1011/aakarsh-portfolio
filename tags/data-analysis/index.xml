@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Aakarsh Yadav</title>
+    <link>https://aakarsh1011.github.io/aakarsh_portfolio/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Aakarsh Yadav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 11:14:48 -0400</lastBuildDate><atom:link href="https://aakarsh1011.github.io/aakarsh_portfolio/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA of Covid-19 data of S.Korea for kaggle Contribution</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Apr 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-4/</guid>
+      <description>As the COVID-19 pandemic spreads through out the world, I tried to do my part of exploring the data which contains the cases form South Korea.
+The Dataset The dataset I took is from DS4C Covid-19 for cases. Which included:
+ CaseID: which is connected to other dataset to show relation. Province: Special and Metropolitan cities City: Different cities which are affected locally. The &amp;lsquo;-&amp;rsquo; value in the city means that the particular case is not locally transmitted.</description>
+    </item>
+    
+  </channel>
+</rss>

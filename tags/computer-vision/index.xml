@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer vision on Aakarsh Yadav</title>
+    <link>https://aakarsh1011.github.io/aakarsh_portfolio/tags/computer-vision/</link>
+    <description>Recent content in Computer vision on Aakarsh Yadav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://aakarsh1011.github.io/aakarsh_portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face Mask Detection</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-5/</link>
+      <pubDate>Sun, 11 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-5/</guid>
+      <description>Aim of the project was to build a object detection model to identify whether a person is wearing a mask or not. In the time of this ongoing pandemic, we are forced to wear mask whenever we go outside, hence this can be used by various offline stores or offices to be aware that whether a customer/employee is entering without a mask and hence preventive measures can be taken. Model is yet to be tuned as the framerate is slow and hence need extra resources to make it work in realtime.</description>
+    </item>
+    
+  </channel>
+</rss>

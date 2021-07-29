@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Aakarsh Yadav</title>
+    <link>https://aakarsh1011.github.io/aakarsh_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Aakarsh Yadav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://aakarsh1011.github.io/aakarsh_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product recommendation system</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-1/</link>
+      <pubDate>Thu, 15 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-1/</guid>
+      <description>Using a russian online marketplace company Avito&amp;rsquo;s dataset containing features like:
+ UserID ProductID AdID UserDemoraphics AdPosition Click &amp;hellip;. and many more. The main aim was to produce personalized product recommendation based on the user interaction with products and similarity with other users. I have tried to prevent any monotonus recommendations by keep the accuracy low to include different products. LightFM model was used to include both user and Ad meta deta to determine the same.</description>
+    </item>
+    
+    <item>
+      <title>Face Mask Detection</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-5/</link>
+      <pubDate>Sun, 11 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-5/</guid>
+      <description>Aim of the project was to build a object detection model to identify whether a person is wearing a mask or not. In the time of this ongoing pandemic, we are forced to wear mask whenever we go outside, hence this can be used by various offline stores or offices to be aware that whether a customer/employee is entering without a mask and hence preventive measures can be taken. Model is yet to be tuned as the framerate is slow and hence need extra resources to make it work in realtime.</description>
+    </item>
+    
+    <item>
+      <title>Fake news ML service</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-2/</guid>
+      <description>Overview People are daily bombarded by various types of new from different resources and sometimes some of them are fake. These fake news can lead to various unpleasant events and hence has to be stopped. This is an practice approach to process news and classify them using Machine Learning into fake or real.
+Workflow
+  All the news data are extracted using the data_acquire script which are labelled. This data is then processed using NLP techniques like stemming, lemmatization and conversion into vectors for our models to understand them.</description>
+    </item>
+    
+    <item>
+      <title>EDA of covid-19 realted tweets</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-3/</link>
+      <pubDate>Wed, 11 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-3/</guid>
+      <description>This project has a prime focus on Twitter a famous social media site. Twitter is a platform where people can send and receive messages or “tweets” globally. Within 280 character limits, users can share their posts which can include links to relevant websites, videos, images, also their thoughts and opinions on different subjects for that matter. Such huge data can come handy to extract information and make use of it. This particular report is for task 3 i.</description>
+    </item>
+    
+    <item>
+      <title>EDA of Covid-19 data of S.Korea for kaggle Contribution</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Apr 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-4/</guid>
+      <description>As the COVID-19 pandemic spreads through out the world, I tried to do my part of exploring the data which contains the cases form South Korea.
+The Dataset The dataset I took is from DS4C Covid-19 for cases. Which included:
+ CaseID: which is connected to other dataset to show relation. Province: Special and Metropolitan cities City: Different cities which are affected locally. The &amp;lsquo;-&amp;rsquo; value in the city means that the particular case is not locally transmitted.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     GitHub: https://www.github.com/aakarsh1011   LinkedIn: https://www.linkedin.com/in/aakarsh1011   Twitter: https://www.twitter.com/yadavaakarsh    </description>
+    </item>
+    
+  </channel>
+</rss>

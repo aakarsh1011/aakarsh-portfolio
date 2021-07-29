@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Aakarsh Yadav</title>
+    <link>https://aakarsh1011.github.io/aakarsh_portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Aakarsh Yadav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://aakarsh1011.github.io/aakarsh_portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fake news ML service</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-2/</guid>
+      <description>Overview People are daily bombarded by various types of new from different resources and sometimes some of them are fake. These fake news can lead to various unpleasant events and hence has to be stopped. This is an practice approach to process news and classify them using Machine Learning into fake or real.
+Workflow
+  All the news data are extracted using the data_acquire script which are labelled. This data is then processed using NLP techniques like stemming, lemmatization and conversion into vectors for our models to understand them.</description>
+    </item>
+    
+    <item>
+      <title>EDA of covid-19 realted tweets</title>
+      <link>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-3/</link>
+      <pubDate>Wed, 11 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://aakarsh1011.github.io/aakarsh_portfolio/post/project-3/</guid>
+      <description>This project has a prime focus on Twitter a famous social media site. Twitter is a platform where people can send and receive messages or “tweets” globally. Within 280 character limits, users can share their posts which can include links to relevant websites, videos, images, also their thoughts and opinions on different subjects for that matter. Such huge data can come handy to extract information and make use of it. This particular report is for task 3 i.</description>
+    </item>
+    
+  </channel>
+</rss>
